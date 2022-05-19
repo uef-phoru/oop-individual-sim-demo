@@ -22,6 +22,7 @@ while(cnum < 2) {
     indnum = indnum + 1 #Increase the index by one
   }
   
+  clist = append(clist, list(indlist))
   cnum = cnum + 1
     
 }
